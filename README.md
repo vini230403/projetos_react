@@ -1,3 +1,3 @@
 # Projetos React
 
-<h3>Aqui se encontra alguns projetos de react que desenvolvi</h3>
+<p>Aqui se encontra alguns projetos de react que desenvolvi.</p>
