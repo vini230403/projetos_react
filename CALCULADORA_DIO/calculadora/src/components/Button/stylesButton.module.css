@@ -1,0 +1,20 @@
+.buttonContainer {
+    width: 55px;
+    height: 55px;
+    padding: 5px;
+    margin: 2px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    border: 2px solid #333;
+}
+
+.buttonContainer:hover {
+    background-color: #444;
+}
